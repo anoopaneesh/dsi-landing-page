@@ -1,0 +1,14 @@
+.container{
+  padding-left:158px;
+  padding-right:158px;
+}
+.stripe{
+  background-color: #F7F7F7;
+}
+@media(max-width:500px){
+  .container{
+    max-width: 100%;
+    padding-left: 24px;
+    padding-right:24px;
+  }
+}
